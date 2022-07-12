@@ -4,3 +4,4 @@ export interface Employee {
     level?: 'junior' | 'mid' | 'senior';
     _id?: string;
 }
+
